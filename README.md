@@ -1,6 +1,6 @@
 # Professional Portfolio
 
-This repository contains the professional portfolio of [your name]. It showcases various projects, skills, and experiences that demonstrate my expertise and achievements in the field. The portfolio is designed to be a comprehensive and detailed presentation of my professional journey.
+This repository contains the professional portfolio of simi oyin. It showcases various projects, skills, and experiences that demonstrate my expertise and achievements in the field. The portfolio is designed to be a comprehensive and detailed presentation of my professional journey.
 
 ## Projects
 
