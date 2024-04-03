@@ -1,41 +1,31 @@
-# Vendor and Order Tracker
+# Professional Portfolio
+
 Author: Simi Oyin
 
 ## Project Overview
-This MVC web application, developed in C# and ASP.NET Core, helps manage vendors and their orders. It's designed to track vendors purchasing baked goods and the respective orders for each vendor. The application demonstrates object-oriented programming, MVC architecture, RESTful routing, Razor view engine, and unit testing with MSTest.
+This portfolio showcases my professional journey, including projects, skills, and experiences in software development. It serves as a comprehensive display of my capabilities and achievements, highlighting my proficiency in various technologies.
 
 ## Installation and Setup
-To run this project locally:
+To view this portfolio:
 
-1. Clone the repository: `git clone https://github.com/simioyin222/VendorOrderTracker`
-2. Navigate to the project directory: `cd VendorOrderTracker`
-3. Ensure .NET SDK and ASP.NET runtime are installed.
-4. Open the project in Visual Studio Code or your preferred IDE.
-5. Build and run the application:
-   - In Visual Studio Code, use the .NET Core Launch (web) configuration to start the application.
-   - Alternatively, execute `dotnet run` in the terminal.
-6. Access the application through the provided localhost URL (typically `https://localhost:5001` or `http://localhost:5000`).
+1. Clone the repository: `git clone https://github.com/simioyin222/Professional-Portfolio`
+2. Navigate to the project directory: `cd Professional-Portfolio`
+3. Open the project in Visual Studio Code or your preferred IDE by clicking the Index.html
 
 ## Usage
-- Splash Page: Start at the homepage, welcoming users and providing navigation options.
-- View Vendors: Navigate to the vendors page to view all vendors.
-- Add Vendor: Use the form to add a new vendor.
-- Vendor Details: Click on a vendor to view their details, including all associated orders.
-- Add Order: Within a vendor's detail page, add new orders specific to that vendor.
-
-## Testing with MSTest
-This project includes a dedicated testing suite using MSTest. Tests cover the functionalities of vendor and order models, ensuring consistent behavior and reliability.
+- Home Page: Start at the homepage, which provides an overview of my professional profile.
+- Project Details: Navigate to view detailed information about my projects.
+- Skills Overview: Review the skills section to understand my technical capabilities.
+- Experience Timeline: Explore my professional experience and roles I've undertaken.
 
 ## Technology Stack
-- C#
-- ASP.NET Core MVC
-- Razor View Engine
-- MSTest
 - HTML/CSS
-- Bootstrap
+- JavaScript
+- Frameworks/Libraries (if any, specify here)
+- Other relevant technologies
 
 ## Contributing
-Contributions to enhance the Vendor and Order Tracker are welcome. If you have suggestions or improvements, please fork the repository and submit a pull request.
+Contributions, suggestions, and feedback are welcome. Please fork the repository and submit a pull request if you have improvements to suggest.
 
 ## License
 MIT License
@@ -43,20 +33,3 @@ MIT License
 Copyright (c) 2023 Simi Oyin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-List the technical and soft skills that you possess, which are relevant to your professional area.
-
-## Experience
-
-Provide an overview of your professional experience, highlighting key roles, responsibilities, and accomplishments.
-
-## Education
-
-Include information about your academic background, degrees, certifications, and any other relevant educational achievements.
-
-## Contact
-
-Provide details on how potential employers or collaborators can contact you, including links to your LinkedIn profile, email address, and any other relevant contact information.
-
----
-
-Feel free to customize this template to suit your professional portfolio's needs.
