@@ -1,16 +1,8 @@
-/**
-* Template Name: Personal
-* Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 (function() {
   "use strict";
 
   /**
-   * Easy selector helper function
+   *  selector helper function
    */
   const select = (el, all = false) => {
     el = el.trim()
@@ -22,7 +14,7 @@
   }
 
   /**
-   * Easy event listener function
+   *  event listener function
    */
   const on = (type, el, listener, all = false) => {
     let selectEl = select(el, all)
