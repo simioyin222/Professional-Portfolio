@@ -989,6 +989,11 @@ section .container {
   background-color: #18d26e;
 }
 
+.portfolio-details-slider .swiper-slide img {
+  max-width: 100%; /* Ensures the image doesn't exceed its container's width */
+  height: auto; /* Allows the image to scale proportionally */
+}
+
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
